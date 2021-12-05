@@ -1,2 +1,5 @@
-# hello-world
-This is my first repo in R programming language.
+# DSC 520
+# My name is Rajendra Prasad Ponnam
+
+
+This is repo for R programming language assignments.
